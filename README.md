@@ -1,6 +1,6 @@
+me when i promise to code but . who cares ahaahaha . . 
 
 
-https://github.com/user-attachments/assets/8030e007-df6e-4a9c-a4d0-dfaaedccaf62
-
+https://github.com/user-attachments/assets/a9d560e6-17b7-4401-ab20-77105128b334
 
 
