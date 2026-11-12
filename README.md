@@ -3,7 +3,7 @@
   <tr>
     <td>
        $\color{#89a4ab}{\textsf{PATIENT :}}$  $\color{#fcfeff}{\textsf{larpchan .}}$<br>
-       $\color{}{\textsf{AGE :}}$<br>  $\color{#fcfeff}{\textsf{18 .}}$<br>
+       $\color{#89a4ab}{\textsf{ㅤㅤAGE :}}$ $\color{#fcfeff}{\textsf{ㅤ18 .}}$<br>
   </tr>
 </table>
 
