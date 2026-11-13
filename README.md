@@ -6,7 +6,7 @@
        $\color{#89a4ab}{\textsf{ㅤㅤAGE :}}$ $\color{#fcfeff}{\textsf{ㅤ18 .}}$<br>
 $\color{#89a4ab}{\textsf{ㅤBYI :}}$ $\color{#fcfeff}{\textsf{ㅤim diagnosed with}}$<br>
 $\color{#fcfeff}{\textsf{ㅤDID ,, anxious depressions}}$<br>
-$\color{#fcfeff}{\textsf{ㅤand schizoaffective disorder .}}$<br>
+$\color{#fcfeff}{\textsf{ㅤand psychosis .}}$<br>
   </tr>
 </table>
 
