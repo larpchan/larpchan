@@ -4,6 +4,8 @@
     <td>
        $\color{#89a4ab}{\textsf{PATIENT :}}$  $\color{#fcfeff}{\textsf{larpchan .}}$<br>
        $\color{#89a4ab}{\textsf{ㅤㅤAGE :}}$ $\color{#fcfeff}{\textsf{ㅤ18 .}}$<br>
+$\color{#89a4ab}{\textsf{ㅤBYI :}}$ $\color{#fcfeff}{\textsf{ㅤim diagnosed with}}$<br>
+$\color{#89a4ab}{\textsf{ㅤDID ,, anxious depression and schizoaffective disorder .}}$<br>
   </tr>
 </table>
 
